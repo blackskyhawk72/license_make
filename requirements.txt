@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+oracledb
+# 검증 CLI(license_kit.cli)는 아래처럼 같은 환경에 설치하거나 LICENSE_CLI_CMD로 별도 실행 파일을 지정한다.
+# pip install -e "D:\projects\라이센스 작업용 파일들\license관련\license-kit"
